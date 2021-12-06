@@ -1,0 +1,15 @@
+.herohome-bg-color {
+  background-color: #fbd062;
+  height: 30rem;
+}
+.herohome-container {
+  margin-top: 5rem;
+  font-weight: 600;
+}
+
+.herohome-paragraph {
+  font-weight: 16;
+}
+.btn {
+  background-color: darkblue !important;
+}

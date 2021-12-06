@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Web & Mobile design",
+        "img": "https://i.imgur.com/mRmakVs.png",
+        "about": "We craft stunning and amazing web UI, using a well drrafted UX to fit your product."
+    },
+    {
+        "name": "Graphic design",
+        "img": "https://i.imgur.com/H0ngXRS.png",
+        "about": "Amazing flyers, social media posts and brand representations that would make your brand stand out."
+    },
+    {
+        "name": "Web development",
+        "img": "https://i.imgur.com/SoeMofZ.png",
+        "about": "With well written codes, we build amazing apps for all platforms, mobile and web apps in general."
+    }
+]

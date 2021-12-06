@@ -1,0 +1,27 @@
+.ClientCart h1 {
+  text-align: center;
+}
+.ClientImage {
+  width: 5rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.BodyComponents h1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 7rem;
+  position: absolute;
+  top: 35px;
+}
+
+.BodyComponents h2 {
+  font-size: 16px;
+  position: absolute;
+  left: 8rem;
+  top: 60px;
+}
+
+.BodyComponents p {
+  font-size: 16px;
+}

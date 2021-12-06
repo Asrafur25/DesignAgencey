@@ -1,0 +1,20 @@
+.EmailPortion {
+  background-color: #fbd062;
+  margin-top: 10rem;
+  height: 40rem;
+}
+
+.EmailPortion h1 {
+  font-size: 34px;
+  font-weight: bold;
+  margin-top: 4rem;
+}
+
+.EmailPortion p {
+  font-size: 14px;
+  margin-top: 1.5rem;
+}
+
+.EamilFrom {
+  margin-top: 7rem;
+}

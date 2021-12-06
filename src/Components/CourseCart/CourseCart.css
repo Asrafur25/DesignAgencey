@@ -1,0 +1,15 @@
+.img {
+  width: 8em;
+  margin-top: 1rem;
+  margin-left: 7rem;
+}
+.courseName {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.courseAbout {
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: center;
+}

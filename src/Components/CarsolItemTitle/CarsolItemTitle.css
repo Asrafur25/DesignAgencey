@@ -1,0 +1,13 @@
+.CarsolTitle {
+  background-color: #111430;
+  margin-top: 10rem;
+  height: 8rem;
+}
+
+.CarsolTitle p {
+  color: #ffffff;
+  font-size: 34px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2rem;
+}
